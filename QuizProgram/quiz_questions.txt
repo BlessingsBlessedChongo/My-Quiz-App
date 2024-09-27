@@ -1,0 +1,30 @@
+What is the capital of France?
+Berlin
+Paris
+London
+Rome
+2
+Which planet is largest in our solar system?
+Earth
+Saturn
+Jupiter
+Uranus
+3
+Who painted the Mona Lisa?
+Leonardo da Vinci
+Michelangelo
+Raphael
+Caravaggio
+1
+What is the chemical symbol for gold?
+Ag
+Au
+Hg
+Pb
+2
+Which language is spoken in china?
+Spanish
+Mandarin
+English
+French
+2

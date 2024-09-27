@@ -1,0 +1,3 @@
+﻿  QuizProgram.cpp
+C:\Users\User\Documents\Study_Trip\QuizProgram\QuizProgram\QuizProgram.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QuizProgram.vcxproj -> C:\Users\User\Documents\Study_Trip\QuizProgram\QuizProgram\x64\Debug\QuizProgram.exe
